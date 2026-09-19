@@ -1,6 +1,6 @@
-# Personal Portfolio
+# Ashesh Chakraborty | SDET Portfolio
 
-This is a simple static portfolio site designed to be hosted on GitHub Pages.
+This is a static personal portfolio for a Senior SDET / QA Automation Engineer, designed to be hosted on GitHub Pages.
 
 ## Files included
 - index.html
